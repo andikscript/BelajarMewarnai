@@ -1,0 +1,3 @@
+hilangkan tag <g>
+masukkan tag <svg>..</svg>
+jangan lupa kasih id dan class pada <svg class=".." id=".."> id="sled" class="svgClass"
